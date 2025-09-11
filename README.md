@@ -1,0 +1,1 @@
+This is a quick and somewhat dirty implementation of downloading a Zwift ride FIT file, editing it so the activity counts toward Garmin challenges and achievements, and creating a FIT file suitable for [manual] Garmin upload.
