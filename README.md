@@ -1,1 +1,1 @@
-This is a quick and somewhat dirty VBA implementation of downloading a Zwift ride FIT file, editing it so the activity counts toward Garmin challenges and achievements, and creating a FIT file suitable for [manual] Garmin upload.
+This is a quick and dirty VBA implementation of downloading a Zwift ride FIT file and editing it so the activity counts toward Garmin challenges and achievements. The Garmin upload remains manual.
